@@ -1,0 +1,21 @@
+# Ignore all
+*
+
+# Unignore all with extensions
+!*.*
+
+# Unignore all dirs
+!*/
+
+# Ignoring bin and build dires/files
+*build*
+bin
+
+# Ignoring binary files
+test
+out.bin
+a.out
+
+# Ignoring editor [temporary] files
+.vscode
+*.swp
